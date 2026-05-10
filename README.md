@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/she-vabe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for She Vabe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-vabe/) |
+| **Get License** | [Secure Licensing Rights for She Vabe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-vabe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> সে ভাবে তুমি আসো আমার কাছে
+> অন্ধকার এই রাত যেন আলো হয়ে বাঁচে.. আলো হয়ে বাঁচে..
+> তোমার ছোঁয়ায় আমি হারাই দিশা
+> বুকের ভেতর বাড়ে প্রেমের এই তৃষ্ণা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
