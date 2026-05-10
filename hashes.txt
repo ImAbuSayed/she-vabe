@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - She Vabe
+
+This log tracks the cryptographic history and versioning for the song **She Vabe** (she-vabe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T10:12:55.971281 | `v1` | `9545d5c63e9fa32d65db3f39fecac59195000d8408c4b13f9a0c918c46c7e0f8` | `c3c1e221541f27be84a76580156705078d1fa72a6846c01383b462f38cc2da61` | `2026-05-10_she-vabe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

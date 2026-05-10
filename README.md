@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/she-vabe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for She Vabe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-vabe/) |
+| **Get License** | [Get License For She Vabe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-vabe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9545d5c63e9fa32d65db3f39fecac59195000d8408c4b13f9a0c918c46c7e0f8` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
